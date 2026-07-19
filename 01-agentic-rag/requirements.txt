@@ -1,0 +1,6 @@
+gitsource>=0.0.5
+groq>=1.5.0
+minsearch>=0.2.0
+openai>=2.46.0
+python-dotenv>=1.2.2
+toyaikit>=0.0.11
