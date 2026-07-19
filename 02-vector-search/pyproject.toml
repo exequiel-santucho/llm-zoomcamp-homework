@@ -1,0 +1,15 @@
+[project]
+name = "hw2-vector-search"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "gitsource>=0.0.5",
+    "minsearch>=0.2.0",
+    "numpy>=2.5.1",
+    "onnxruntime>=1.27.0",
+    "python-dotenv>=1.2.2",
+    "tokenizers>=0.23.1",
+    "tqdm>=4.68.4",
+]
